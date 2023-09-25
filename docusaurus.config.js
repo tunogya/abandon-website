@@ -101,7 +101,8 @@ const config = {
             position: 'left',
             items: [
               {
-                to: "/docs",
+                type: 'docSidebar',
+                sidebarId: 'supportHubSidebar',
                 label: "Support hub",
               },
               {
