@@ -102,7 +102,7 @@ const config = {
             items: [
               {
                 type: 'docSidebar',
-                sidebarId: 'supportHubSidebar',
+                sidebarId: 'tutorialSidebar',
                 label: "Support hub",
               },
               {
@@ -116,10 +116,6 @@ const config = {
             ]
           },
           {to: '/pricing', label: 'Pricing', position: 'left'},
-          // {
-          //   type: 'search',
-          //   position: 'right',
-          // },
         ],
       },
       prism: {
