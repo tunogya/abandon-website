@@ -64,7 +64,7 @@ const config = {
 
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
-    ({
+    {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
@@ -136,7 +136,7 @@ const config = {
       //   textColor: '#091E42',
       //   isCloseable: false,
       // },
-    }),
+    },
   
   plugins: [
     async function myPlugin(context, options) {
