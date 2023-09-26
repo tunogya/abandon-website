@@ -6,24 +6,24 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'AbandonAI',
+  title: 'Abandon',
   tagline: '"Abandon yourself to a life of pleasure."',
   favicon: 'img/favicon.ico',
-
+  
   // Set the production url of your site here
   url: 'https://www.abandon.ai',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
-
+  
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   // organizationName: 'AbandonAI', // Usually your GitHub org/user name.
   // projectName: 'abandonai-website', // Usually your repo name.
-
+  
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-
+  
   // Even if you don't use internalization, you can use this field to set useful
   // metadata like html lang. For example, if your site is Chinese, you may want
   // to replace "en" with "zh-Hans".
@@ -31,7 +31,7 @@ const config = {
     defaultLocale: 'en',
     locales: ['en'],
   },
-
+  
   presets: [
     [
       'classic',
@@ -61,79 +61,63 @@ const config = {
       },
     ],
   ],
-
+  
   themeConfig:
-    /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
-    {
-      // Replace with your project's social card
-      image: 'img/docusaurus-social-card.jpg',
-      navbar: {
-        title: 'AbandonAI',
-        logo: {
-          alt: 'AbandonAI Logo',
-          src: 'img/logo.svg',
+  /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
+      {
+        // Replace with your project's social card
+        image: 'img/docusaurus-social-card.jpg',
+        navbar: {
+          title: 'Abandon',
+          logo: {
+            alt: 'AbandonAI Logo',
+            src: 'img/logo.svg',
+          },
+          items: [
+            {
+              label: "AbandonAI",
+              type: "dropdown",
+              items: [
+                {to: "overview", label: "Overview"},
+                {
+                  href: "https://app.abandon.ai",
+                  label: "Try AbandonAI"
+                },
+              ]
+            },
+            {to: '/pricing', label: 'Pricing', position: 'left'},
+            {
+              label: "Company",
+              type: "dropdown",
+              items: [
+                {to: '/about', label: 'About'},
+                {to: '/blog', label: 'Blog'},
+                {to: '/careers', label: 'Careers'},
+                {
+                  type: 'docSidebar',
+                  sidebarId: 'resourceSidebar',
+                  label: 'Resources library'
+                },
+              ]
+            },
+          ],
         },
-        items: [
-          {
-            label: "Product",
-            type: "dropdown",
-            items: [
-              {
-                label: "AbandonAI",
-                to: "/abandonai"
-              },
-              {
-                label: "ChatGPT",
-                href: "https://chat.abandon.ai/"
-              }
-            ]
-          },
-          {
-            label: "Resources",
-            type: "dropdown",
-            items: [
-              {to: '/resources', label: 'Resources library'},
-              {to: '/blog', label: 'Blog'},
-            ]
-          },
-          {
-            label: 'Support',
-            position: 'left',
-            items: [
-              {
-                type: 'docSidebar',
-                sidebarId: 'tutorialSidebar',
-                label: "Support hub",
-              },
-              {
-                to: "/community",
-                label: "Community",
-              },
-              {
-                label: "Talk to support",
-                href: "mailto:support@abandon.ai",
-              }
-            ]
-          },
-          {to: '/pricing', label: 'Pricing', position: 'left'},
-        ],
+        prism: {
+          theme: lightCodeTheme,
+          darkTheme: darkCodeTheme,
+        },
+        colorMode: {
+          disableSwitch: true
+        },
+        // announcementBar: {
+        //   id: 'support_us',
+        //   content:
+        //       'We are looking to revamp our docs, please fill <a target="_blank" rel="noopener noreferrer" href="#">this survey</a>',
+        //   backgroundColor: '#fafbfc',
+        //   textColor: '#091E42',
+        //   isCloseable: false,
+        // },
       },
-      prism: {
-        theme: lightCodeTheme,
-        darkTheme: darkCodeTheme,
-      },
-      colorMode: {
-        disableSwitch: true
-      },
-      // announcementBar: {
-      //   id: 'support_us',
-      //   content:
-      //       'We are looking to revamp our docs, please fill <a target="_blank" rel="noopener noreferrer" href="#">this survey</a>',
-      //   backgroundColor: '#fafbfc',
-      //   textColor: '#091E42',
-      //   isCloseable: false,
-      // },
-    },
   
   plugins: [
     async function myPlugin(context, options) {
@@ -147,6 +131,10 @@ const config = {
         },
       };
     },
+  ],
+  
+  stylesheets: [
+    'https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap',
   ]
 };
 
