@@ -8,9 +8,9 @@ export default function Home(): JSX.Element {
     <Layout
       title={`Pricing - ${siteConfig.title}`}
       description="Description will go into a meta tag in <head />">
-      <main>
+      <div className="w-screen h-screen flex flex-col justify-center items-center py-4 px-3">
         Pricing
-      </main>
+      </div>
     </Layout>
   );
 }

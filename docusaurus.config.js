@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Abandon',
+  title: 'AbandonAI',
   tagline: '"Abandon yourself to a life of pleasure."',
   favicon: 'img/favicon.ico',
   
@@ -68,24 +68,24 @@ const config = {
         // Replace with your project's social card
         image: 'img/docusaurus-social-card.jpg',
         navbar: {
-          title: 'Abandon',
+          title: 'AbandonAI',
           logo: {
             alt: 'AbandonAI Logo',
             src: 'img/logo.svg',
           },
           items: [
             {
-              label: "AbandonAI",
-              type: "dropdown",
-              items: [
-                {to: "overview", label: "Overview"},
-                {
-                  href: "https://app.abandon.ai",
-                  label: "Try AbandonAI"
-                },
-              ]
+              to: 'overview',
+              label: "Overview",
+              position: 'left',
             },
             {to: '/pricing', label: 'Pricing', position: 'left'},
+            {
+              type: 'docSidebar',
+              sidebarId: 'policiesSidebar',
+              label: 'Terms & policies',
+              position: 'left'
+            },
             {
               label: "Company",
               type: "dropdown",

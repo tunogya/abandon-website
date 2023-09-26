@@ -1,3 +1,51 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+:root {
+    --ifm-color-primary: #000000;
+    --ifm-color-primary-dark: #000000;
+    --ifm-color-primary-darker: #000000;
+    --ifm-color-primary-darkest: #000000;
+    --ifm-color-primary-light: #000000;
+    --ifm-color-primary-lighter: #000000;
+    --ifm-color-primary-lightest: #000000;
+}
+
+[data-theme='dark'] {
+    --ifm-color-primary: #ffffff;
+    --ifm-color-primary-dark: #e6e6e6;
+    --ifm-color-primary-darker: #d9d9d9;
+    --ifm-color-primary-darkest: #b3b3b3;
+    --ifm-color-primary-light: #ffffff;
+    --ifm-color-primary-lighter: #ffffff;
+    --ifm-color-primary-lightest: #ffffff;
+}
+
+body,
+html {
+    height: 100%;
+}
+
+a {
+    &:hover {
+        text-decoration: none;
+    }
+}
+
+.navbar__title {
+    font-size: 24px;
+    font-weight: 500;
+}
+
+.navbar__item, .dropdown, .dropdown--hoverable, .dropdown__link {
+    font-size: 18px;
+}
+
+.menu__link--sublist-caret::after {
+    content: none;
+}
+
+.dropdown > .navbar__link::after {
+    content: none;
+}

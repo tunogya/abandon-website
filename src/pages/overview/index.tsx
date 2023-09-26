@@ -8,9 +8,9 @@ export default function Home(): JSX.Element {
     <Layout
       title={`Hello from ${siteConfig.title}`}
       description="Description will go into a meta tag in <head />">
-      <main>
+      <div className="w-screen h-screen flex flex-col justify-center items-center py-4 px-3">
         AbandonAI
-      </main>
+      </div>
     </Layout>
   );
 }
