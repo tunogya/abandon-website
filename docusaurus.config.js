@@ -3,6 +3,8 @@
 
 const lightCodeTheme = require('prism-react-renderer/themes/github');
 const darkCodeTheme = require('prism-react-renderer/themes/dracula');
+const {ArrowSmallRightIcon} = require("@heroicons/react/24/solid");
+const React = require("react");
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
@@ -75,31 +77,24 @@ const config = {
             src: 'img/logo.svg',
           },
           items: [
+            {to: '/about', label: 'ABOUT', position: 'left'},
+            {to: '/blog', label: 'BLOG', position: 'left'},
             {
-              to: 'overview',
-              label: "Overview",
-              position: 'left',
-            },
-            {to: '/pricing', label: 'Pricing', position: 'left'},
-            {
-              type: 'docSidebar',
-              sidebarId: 'policiesSidebar',
-              label: 'Terms & policies',
+              href: 'https://t.me/abandonai',
+              label: 'TELEGRAM',
               position: 'left'
             },
             {
-              label: "Company",
-              type: "dropdown",
-              items: [
-                {to: '/about', label: 'About'},
-                {to: '/blog', label: 'Blog'},
-                {to: '/careers', label: 'Careers'},
-                {
-                  type: 'docSidebar',
-                  sidebarId: 'resourceSidebar',
-                  label: 'Resources library'
-                },
-              ]
+              type: 'docSidebar',
+              sidebarId: 'resourceSidebar',
+              label: 'RESOURCES',
+              position: 'left'
+            },
+            {
+              href: 'https://app.abandon.ai',
+              // label: 'Start for free!',
+              html: `<div class="btn">Try AbandonAI</div>`,
+              position: 'right'
             },
           ],
         },
@@ -110,6 +105,10 @@ const config = {
         colorMode: {
           disableSwitch: true
         },
+        footer: {
+          style: 'light',
+          copyright: `Copyright © ${new Date().getFullYear()} Abandon, Inc.`,
+        }
         // announcementBar: {
         //   id: 'support_us',
         //   content:

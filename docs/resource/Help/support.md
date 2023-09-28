@@ -1,0 +1,21 @@
+# Support & Contact Us
+
+## Community
+
+Upstash Discord Channel is the best way to interact with the community.
+
+## Team
+
+You can contact the team via support@upstash.com for technical support as well as questions and feedback.
+
+## Follow Us
+
+Follow us at twitter.
+
+## Bugs & Issues
+
+You can help us improve Upstash by reporting issues, suggesting new features and giving general feedback in our Community Github Repo.
+
+## Professional Support
+
+Get professional support from the Upstash team.

@@ -1,0 +1,4 @@
+# Legal
+
+## Upstash Legal Documents
+
