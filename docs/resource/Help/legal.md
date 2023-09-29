@@ -1,4 +1,4 @@
 # Legal
 
-## Upstash Legal Documents
+## AbandonAI Legal Documents
 

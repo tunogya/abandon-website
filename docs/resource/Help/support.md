@@ -2,7 +2,7 @@
 
 ## Community
 
-Upstash Discord Channel is the best way to interact with the community.
+AbandonAI Discord Channel is the best way to interact with the community.
 
 ## Team
 
@@ -14,8 +14,8 @@ Follow us at twitter.
 
 ## Bugs & Issues
 
-You can help us improve Upstash by reporting issues, suggesting new features and giving general feedback in our Community Github Repo.
+You can help us improve AbandonAI by reporting issues, suggesting new features and giving general feedback in our Community Github Repo.
 
 ## Professional Support
 
-Get professional support from the Upstash team.
+Get professional support from the AbandonAI team.

@@ -1,4 +1,4 @@
 # Announcements
 
-Upstash Announcements!
+AbandonAI Announcements!
 
