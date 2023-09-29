@@ -76,7 +76,6 @@ const config = {
             src: 'img/logo.svg',
           },
           items: [
-            {to: '/about', label: 'ABOUT', position: 'left'},
             {to: '/blog', label: 'BLOG', position: 'left'},
             {
               type: 'docSidebar',
