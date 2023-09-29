@@ -3,7 +3,7 @@
 @tailwind utilities;
 
 :root {
-    --ifm-color-primary: #000000;
+    --ifm-color-primary: #0069FF;
     --ifm-color-primary-dark: #000000;
     --ifm-color-primary-darker: #000000;
     --ifm-color-primary-darkest: #000000;
@@ -26,29 +26,30 @@ a {
 .navbar__title {
     font-size: 24px;
     font-weight: 500;
+    color: #0066FF;
 }
 
 .navbar__item, .dropdown, .dropdown--hoverable, .dropdown__link {
-    font-size: 18px;
+    font-size: 16px;
+    color: #24335A;
 }
 
 .menu__link--sublist-caret::after {
     content: none;
 }
 
-.navbar {
-    box-shadow: none;
-}
-
-.navbar__link {
-    display: flex;
-    align-items: center;
-}
+/*.navbar {*/
+/*    box-shadow: none;*/
+/*}*/
 
 .btn {
     display: flex;
-    border: black solid 2px;
-    padding: 4px 12px;
+    background: #0066FF;
+    color: #ffffff;
+    padding: 6px 20px;
+    border-radius: 4px;
+    height: 40px;
+    align-items: center;
 }
 
 .markdown {

@@ -3,7 +3,6 @@
 
 const lightCodeTheme = require('prism-react-renderer/themes/github');
 const darkCodeTheme = require('prism-react-renderer/themes/dracula');
-const {ArrowSmallRightIcon} = require("@heroicons/react/24/solid");
 const React = require("react");
 
 /** @type {import('@docusaurus/types').Config} */
@@ -80,11 +79,6 @@ const config = {
             {to: '/about', label: 'ABOUT', position: 'left'},
             {to: '/blog', label: 'BLOG', position: 'left'},
             {
-              href: 'https://t.me/abandonai',
-              label: 'TELEGRAM',
-              position: 'left'
-            },
-            {
               type: 'docSidebar',
               sidebarId: 'resourceSidebar',
               label: 'RESOURCES',
@@ -105,10 +99,6 @@ const config = {
         colorMode: {
           disableSwitch: true
         },
-        footer: {
-          style: 'light',
-          copyright: `Copyright © ${new Date().getFullYear()} Abandon, Inc.`,
-        }
         // announcementBar: {
         //   id: 'support_us',
         //   content:
