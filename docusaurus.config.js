@@ -84,6 +84,12 @@ const config = {
               position: 'left'
             },
             {
+              type: 'docSidebar',
+              sidebarId: 'policiesSidebar',
+              label: 'TERMS & POLICIES',
+              position: 'left'
+            },
+            {
               href: 'https://app.abandon.ai',
               // label: 'Start for free!',
               html: `<div class="btn">Try AbandonAI</div>`,

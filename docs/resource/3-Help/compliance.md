@@ -8,7 +8,7 @@ As of July 2023, AbandonAI Redis and Kafka are SOC2 compliant. Check our trust p
 
 ​
 Is AbandonAI ISO-27001 Compliant?
-We are in process of getting this certification. Contact us (support@upstash.com) to learn about the expected date.
+We are in process of getting this certification. Contact us (support@abandon.ai) to learn about the expected date.
 
 ​
 Is AbandonAI GDPR Compliant?
@@ -16,7 +16,7 @@ Yes. For more information, see our Privacy Policy. We acquire DPAs from each sub
 
 ​
 Is AbandonAI HIPAA Compliant?
-AbandonAI is currently not HIPAA compliant. Contact us (support@upstash.com) if HIPAA is important for you and we can share more details.
+AbandonAI is currently not HIPAA compliant. Contact us (support@abandon.ai) if HIPAA is important for you and we can share more details.
 
 ​
 Is AbandonAI PCI Compliant?
@@ -24,7 +24,7 @@ AbandonAI does not store personal credit card information. We use Stripe for pay
 
 ​
 Does AbandonAI conduct vulnerability scanning and penetration tests?
-Yes, we use third party tools and work with pen testers. We share the results with Enterprise customers. Contact us (support@upstash.com) for more information.
+Yes, we use third party tools and work with pen testers. We share the results with Enterprise customers. Contact us (support@abandon.ai) for more information.
 
 ​
 Does AbandonAI take backups?
