@@ -94,7 +94,9 @@ export default function Home(): JSX.Element {
               </Translate>
             </p>
             <p className={'text-[12px] md:text-[16px]'}>
+              <Translate>
               + Service Fees 30%
+              </Translate>
             </p>
             <a href={'https://openai.com/chatgpt'} target={'_blank'}>
               <p className={'text-[12px] md:text-[16px] underline mt-6'}>
