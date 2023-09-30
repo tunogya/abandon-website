@@ -9,7 +9,7 @@ export default function Home(): JSX.Element {
       description="Welcome to AbandonAI.">
       <div className="flex flex-col justify-center items-center w-full">
         <div
-          className={"flex flex-col w-full text-center items-center justify-center bg-[#0066FF] text-white h-[600px] rounded-b-[88px] "}
+          className={"flex flex-col w-full text-center items-center justify-center text-white h-[600px] rounded-b-[88px] "}
           style={{
             backgroundImage: `url("/img/desktop-background.svg")`,
             backgroundSize: "cover",
