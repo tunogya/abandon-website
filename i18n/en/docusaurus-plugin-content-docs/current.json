@@ -1,0 +1,26 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.resourceSidebar.category.Introduction": {
+    "message": "Introduction",
+    "description": "The label for category Introduction in sidebar resourceSidebar"
+  },
+  "sidebar.resourceSidebar.category.GetStarted": {
+    "message": "GetStarted",
+    "description": "The label for category GetStarted in sidebar resourceSidebar"
+  },
+  "sidebar.resourceSidebar.category.Help": {
+    "message": "Help",
+    "description": "The label for category Help in sidebar resourceSidebar"
+  },
+  "sidebar.policiesSidebar.category.Legal": {
+    "message": "Legal",
+    "description": "The label for category Legal in sidebar policiesSidebar"
+  },
+  "sidebar.policiesSidebar.category.Policies": {
+    "message": "Policies",
+    "description": "The label for category Policies in sidebar policiesSidebar"
+  }
+}

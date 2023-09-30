@@ -1,0 +1,22 @@
+{
+  "title": {
+    "message": "AbandonAI",
+    "description": "The title in the navbar"
+  },
+  "logo.alt": {
+    "message": "AbandonAI Logo",
+    "description": "The alt text of navbar logo"
+  },
+  "item.label.BLOG": {
+    "message": "BLOG",
+    "description": "Navbar item with label BLOG"
+  },
+  "item.label.RESOURCES": {
+    "message": "RESOURCES",
+    "description": "Navbar item with label RESOURCES"
+  },
+  "item.label.TERMS & POLICIES": {
+    "message": "TERMS & POLICIES",
+    "description": "Navbar item with label TERMS & POLICIES"
+  }
+}
