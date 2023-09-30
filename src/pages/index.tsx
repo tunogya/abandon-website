@@ -79,6 +79,32 @@ export default function Home(): JSX.Element {
           </div>
         </div>
 
+        <div className={'mt-20 md:mt-40 text-center'}>
+          <div className={"text-[36px] font-bold"}>
+            Partnership
+          </div>
+          <div className={'w-full flex items-center justify-center gap-10 mt-10'}>
+
+            <a>
+              <img src={"/img/openai-logo.svg"} alt={'OpenAI'} className={'w-24 h-10'}/>
+            </a>
+            <a>
+              <img src={"/img/aws-logo.svg"} alt={'AWS'} className={'w-24 h-10'}/>
+            </a>
+            <a>
+              <img src={"/img/vercel-logo.svg"} alt={'Vercel'} className={'w-24 h-10'}/>
+            </a>
+            <a>
+              <img src={"/img/upstash-logo.svg"} alt={'Vercel'} className={'w-24 h-10'}/>
+            </a>
+            <a>
+              <img src={"/img/stripe-logo.svg"} alt={'Stripe'} className={'w-24 h-10'}/>
+            </a>
+          </div>
+        </div>
+
+
+
         <div
           className={"w-full mt-20 md:mt-40"}
         >
