@@ -38,9 +38,16 @@ a {
     content: none;
 }
 
-/*.navbar {*/
-/*    box-shadow: none;*/
-/*}*/
+.navbar__link {
+    display: flex;
+    align-items: center;
+}
+
+@media screen and (max-width: 996px) {
+    .navbar__link {
+        display: none;
+    }
+}
 
 .btn {
     display: flex;
