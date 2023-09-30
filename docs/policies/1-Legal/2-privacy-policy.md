@@ -113,13 +113,13 @@ relation to their Personal Information. For example, you may have the right to:
 * Lodge a complaint with your local data protection authority.
 
 You can exercise some of these rights through your AbandonAI account. If you are unable to exercise your rights through
-your account, please send your request to dsar@AbandonAI.com.
+your account, please send your request to dsar@abandon.ai.
 
 A note about accuracy: Services like ChatGPT generate responses by reading a user’s request and, in response, predicting
 the words most likely to appear next. In some cases, the words most likely to appear next may not be the most factually
 accurate. For this reason, you should not rely on the factual accuracy of output from our models. If you notice that
 ChatGPT output contains factually inaccurate information about you and you would like us to correct the inaccuracy, you
-may submit a correction request to dsar@AbandonAI.com. Given the technical complexity of how our models work, we may not be
+may submit a correction request to dsar@abandon.ai. Given the technical complexity of how our models work, we may not be
 able to correct the inaccuracy in every instance. In that case, you may request that we remove your Personal Information
 from ChatGPT’s output by filling out this form.
 
@@ -155,7 +155,7 @@ those terms are defined under applicable local law). We also don’t process sen
 purposes of inferring characteristics about a consumer.
 
 **Exercising Your Rights**. To the extent applicable under local law, you can exercise privacy rights described in this
-section by submitting a request to dsar@AbandonAI.com.
+section by submitting a request to dsar@abandon.ai.
 
 **Verification**. In order to protect your Personal Information from unauthorized access, change, or deletion, we may
 require you to verify your credentials before you can submit a request to know, correct, or delete Personal Information.
@@ -165,16 +165,16 @@ be able to honor your request.
 
 **Authorized Agents**. You may also submit a rights request through an authorized agent. If you do so, the agent must
 present signed written permission to act on your behalf and you may also be required to independently verify your
-identity and submit proof of your residency with us. Authorized agent requests can be submitted to dsar@AbandonAI.com.
+identity and submit proof of your residency with us. Authorized agent requests can be submitted to dsar@abandon.ai.
 
 **Appeals**. Depending on where you live, you may have the right to appeal a decision we make relating to requests to
-exercise your rights under applicable local law. To appeal a decision, please send your request to dsar@AbandonAI.com.
+exercise your rights under applicable local law. To appeal a decision, please send your request to dsar@abandon.ai.
 
 ## 6. Children
 
 Our Service is not directed to children under the age of 13. AbandonAI does not knowingly collect Personal Information from
 children under the age of 13. If you have reason to believe that a child under the age of 13 has provided Personal
-Information to AbandonAI through the Service, please email us at legal@AbandonAI.com. We will investigate any notification and
+Information to AbandonAI through the Service, please email us at legal@abandon.ai. We will investigate any notification and
 if appropriate, delete the Personal Information from our systems. If you are 13 or older, but under 18, you must have
 consent from your parent or guardian to use our Services.
 
@@ -224,7 +224,7 @@ For EEA, UK or Swiss users:
   protect our or our affiliates’, users’, or third parties’ rights, safety, and property.
 
 **EEA and UK Representative**. We’ve appointed the following representatives in the EEA and UK for data protection
-matters. You can contact our representatives at privacy@AbandonAI.com. Alternatively:
+matters. You can contact our representatives at privacy@abandon.ai. Alternatively:
 
 * For users in the EEA: AbandonAI Ireland Limited, at 1st Floor, The Liffey Trust Centre, 117-126 Sheriff Street Upper,
   Dublin 1, D01 YC43, Ireland.
@@ -238,7 +238,7 @@ contact us at the details below.
 **Data Controller**. For the purposes of the UK and EU General Data Protection Regulation 2018, our data controller is
 AbandonAI OpCo, LLC at 3180 18th Street, San Francisco, CA, United States.
 
-**Data Protection Officer**. You can contact our data protection officer at privacy@AbandonAI.com in matters related to
+**Data Protection Officer**. You can contact our data protection officer at privacy@abandon.ai in matters related to
 Personal Information processing.
 
 ## 10. Changes to the privacy policy

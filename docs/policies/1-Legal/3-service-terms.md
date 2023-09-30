@@ -37,7 +37,7 @@ licenses, including, without limitation, open source licenses.
 
 (b) **Review**. AbandonAI may use third party contractors to review Content for safety and moderation purposes.
 
-(c) **Labs**. If you use DALL·E via labs.AbandonAI.com (“Labs”), (i) credits purchased on Labs must be used within one year
+(c) **Labs**. If you use DALL·E via labs.abandon.ai (“Labs”), (i) credits purchased on Labs must be used within one year
 of
 purchase or they will expire, and (ii) AbandonAI may use Content on Labs to develop and improve the Services.
 

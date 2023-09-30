@@ -112,7 +112,7 @@ Services (as defined in our Service Terms), which will be effective immediately.
 Fees charged to your account immediately after the effective date of the changes.
 
 (d) Disputes and Late Payments.
-If you want to dispute any Fees or Taxes, please contact ar@AbandonAI.com within
+If you want to dispute any Fees or Taxes, please contact ar@abandon.ai within
 thirty (30) days of the date of the disputed invoice. Undisputed amounts past due may be subject to a finance charge of
 1.5% of
 the unpaid balance per month. If any amount of your Fees are past due, we may suspend your access to the Services
@@ -214,7 +214,7 @@ terms or the relevant changes.
 (b) Informal Dispute Resolution.
 We would like to understand and try to address your concerns prior to formal legal action.
 Before filing a claim against AbandonAI, you agree to try to resolve the dispute informally by sending us notice
-at dispute-resolution@AbandonAI.com of your name, a description of the dispute, and the relief you seek.
+at dispute-resolution@abandon.ai of your name, a description of the dispute, and the relief you seek.
 If we are unable to resolve a dispute within 60 days, you may bring a formal proceeding.
 Any statute of limitations will be tolled during the 60-day resolution process.
 If you reside in the EU, the European Commission provides for an online dispute
@@ -332,7 +332,7 @@ email address associated with your use of the Services.
 Service will be deemed given on the date of receipt if delivered
 by email or on the date sent via courier if delivered by post.
 AbandonAI accepts service of process at this address:
-Abandon, Inc., 3180 18th Street, San Francisco, CA 94110, Attn: contract-notices@AbandonAI.com.
+Abandon, Inc., 3180 18th Street, San Francisco, CA 94110, Attn: contract-notices@abandon.ai.
 
 (h) Waiver and Severability.
 If you do not comply with these Terms, and AbandonAI does not take action right away, this
