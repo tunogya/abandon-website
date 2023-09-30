@@ -82,7 +82,7 @@ export default function Home(): JSX.Element {
 
         <div className={'mt-20 md:mt-40 text-center'}>
           <div className={"text-3xl md:text-[36px] font-bold"}>
-            Partners
+            Service Provider
           </div>
           <div className={'w-full flex flex-col md:flex-row items-center justify-center gap-10 mt-10'}>
             <a href={'https://openai.com'} target={'_blank'}>
