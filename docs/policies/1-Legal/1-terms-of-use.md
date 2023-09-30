@@ -293,9 +293,9 @@ to the address below or fill out this form. We may delete or disable content all
 accounts of repeat infringers.
 
     Abandon, Inc.
-    3180 18th St
-    San Francisco, CA 94110
-    Attn: General Counsel / Copyright Agent
+    8 The Green, STE R
+    Dover DE 19901
+    United States
 
 Written claims concerning copyright infringement must include the following information:
 
@@ -366,7 +366,7 @@ enterprise agreements, supersedes any prior or contemporaneous agreements, commu
 and AbandonAI on that subject.
 
 (l) Jurisdiction, Venue and Choice of Law.
-These Terms will be governed by the laws of the State of California,
-excluding California’s conflicts of law rules or principles. Except as provided in the “Dispute Resolution” section, all
-claims arising out of or relating to these Terms will be brought exclusively in the federal or state courts of San
-Francisco County, California, USA.
+These Terms will be governed by the laws of the State of Delaware,
+excluding Delaware’s conflicts of law rules or principles. Except as provided in the “Dispute Resolution” section, all
+claims arising out of or relating to these Terms will be brought exclusively in the federal or state courts of Dover,
+Delaware, USA.
