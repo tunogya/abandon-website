@@ -95,16 +95,16 @@ export default function Home(): JSX.Element {
             </p>
             <p className={'text-[12px] md:text-[16px]'}>
               <Translate>
-              + Service Fees 30%
+                + Service Fees 30%
               </Translate>
             </p>
-            <a href={'https://openai.com/chatgpt'} target={'_blank'}>
-              <p className={'text-[12px] md:text-[16px] underline mt-6'}>
+            <p className={'text-[12px] md:text-[16px] underline mt-6'}>
+              <a href={'https://openai.com/chatgpt'} target={'_blank'} className={'hover:text-white'}>
                 <Translate>
                   Learn more about ChatGPT
                 </Translate>
-              </p>
-            </a>
+              </a>
+            </p>
           </div>
         </div>
 
