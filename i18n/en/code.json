@@ -314,5 +314,8 @@
   "theme.tags.tagsPageTitle": {
     "message": "Tags",
     "description": "The title of the tag list page"
+  },
+  "+ Service Fees 30%": {
+    "message": "+ Service Fees 30%"
   }
 }
