@@ -2,9 +2,7 @@
 
 ## Create a API Key
 
-![API Key](https://nftstorage.link/ipfs/bafkreibpgis556qq46mg4anpy43jszx75mqtmiw3uvmzc7ye7khswmodhu)
-
-You can click `Refresh` to create a new API Key. 
+You can click `Refresh` button to create a new API Key in `Dashboard -> API Key`. 
 
 ## How to use
 
