@@ -79,12 +79,6 @@ const config = {
             {to: '/blog', label: 'BLOG', position: 'left'},
             {
               type: 'docSidebar',
-              sidebarId: 'resourceSidebar',
-              label: 'RESOURCES',
-              position: 'left'
-            },
-            {
-              type: 'docSidebar',
               sidebarId: 'policiesSidebar',
               label: 'TERMS & POLICIES',
               position: 'left'

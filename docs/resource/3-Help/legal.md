@@ -1,4 +1,0 @@
-# Legal
-
-## AbandonAI Legal Documents
-
