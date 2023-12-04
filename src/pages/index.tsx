@@ -85,17 +85,7 @@ export default function Home(): JSX.Element {
             <br/>
             <p className={'text-[12px] md:text-[16px]'}>
               <Translate>
-                4K Content Input: $0.0015 / 1K tokens
-              </Translate>
-            </p>
-            <p className={'text-[12px] md:text-[16px]'}>
-              <Translate>
-                4K Content Output: $0.002 / 1K tokens
-              </Translate>
-            </p>
-            <p className={'text-[12px] md:text-[16px]'}>
-              <Translate>
-                + Service Fees 30%
+                AbandonAI Premium Standard $20 per month
               </Translate>
             </p>
             <p className={'text-[12px] md:text-[16px] underline mt-6'}>
