@@ -70,32 +70,7 @@ export default function Home(): JSX.Element {
         </div>
 
         <div className={'p-4 w-full mt-20 md:mt-40 px-4 md:px-20 xl:px-40'}>
-          <div className={"bg-blue-800 px-10 py-8 rounded-2xl text-[16px] md:text-[32px] text-white"}>
-            <p className={"font-bold"}>
-              <Translate>
-                ChatGPT: get instant answers, find creative inspiration, and learn something new.
-              </Translate>
-            </p>
-            <p className={'text-[12px] md:text-[16px] mt-6'}>
-              <Translate>
-                GPT-3.5 Turbo models are capable and cost-effective. gpt-3.5-turbo is the flagship model of this family
-                and is optimized for dialog.
-              </Translate>
-            </p>
-            <br/>
-            <p className={'text-[12px] md:text-[16px]'}>
-              <Translate>
-                AbandonAI Premium Standard $20 per month
-              </Translate>
-            </p>
-            <p className={'text-[12px] md:text-[16px] underline mt-6'}>
-              <a href={'https://openai.com/chatgpt'} target={'_blank'} className={'hover:text-white'}>
-                <Translate>
-                  Learn more about ChatGPT
-                </Translate>
-              </a>
-            </p>
-          </div>
+          <img src={'/img/app.png'} alt={'Abandon AI'} className={'w-full'}/>
         </div>
 
         <div className={'mt-20 md:mt-40 text-center'}>
