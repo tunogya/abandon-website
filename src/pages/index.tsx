@@ -10,21 +10,21 @@ export default function Home(): JSX.Element {
       description="Welcome to AbandonAI.">
       <div className="flex flex-col justify-center items-center w-full">
         <div
-          className={"flex flex-col w-full text-center items-center justify-center text-white h-[600px] md:rounded-b-[88px] "}
+          className={"flex flex-col w-full text-center items-center justify-center text-white h-[calc(100vh-60px)] "}
           style={{
-            backgroundImage: `url("/img/desktop-background.svg")`,
+            backgroundImage: `url("/img/0TxTsbg8Re58cQJi.webp")`,
             backgroundSize: "cover",
             backgroundPosition: 'center',
           }}
         >
-          <p className={"text-4xl md:text-6xl font-bold"}>
+          <p className={"text-4xl md:text-6xl font-bold text-white"}>
             <Translate>
-              Pay as you go
+             Unlimited access to GPT-4
             </Translate>
           </p>
-          <p className={'mt-4 text-lg md:text-xl'}>
+          <p className={'mt-4 text-lg md:text-xl font-bold text-gray-100'}>
             <Translate>
-              Simple and flexible. Only pay for what you use.
+              GPT 3.5 always free!
             </Translate>
           </p>
           <div className={'flex flex-col md:flex-row justify-center my-8 gap-2 w-full md:w-fit px-4'}>
@@ -44,7 +44,7 @@ export default function Home(): JSX.Element {
               className={'bg-white text-black px-4 py-2 rounded font-bold cursor-pointer flex items-center gap-2 justify-between'}
             >
               <Translate>
-                Completion
+                Assistants
               </Translate>
               <ArrowRightIcon className={'w-5 h-5'}/>
             </a>
@@ -54,7 +54,7 @@ export default function Home(): JSX.Element {
               className={'bg-white text-black px-4 py-2 rounded font-bold cursor-pointer flex items-center gap-2 justify-between'}
             >
               <Translate>
-                DALL·E
+                DALL·E 3
               </Translate>
               <ArrowRightIcon className={'w-5 h-5'}/>
             </a>
