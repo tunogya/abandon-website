@@ -3,13 +3,13 @@
 @tailwind utilities;
 
 :root {
-    --ifm-color-primary: #0069FF;
-    --ifm-color-primary-dark: #000000;
-    --ifm-color-primary-darker: #000000;
-    --ifm-color-primary-darkest: #000000;
-    --ifm-color-primary-light: #000000;
-    --ifm-color-primary-lighter: #000000;
-    --ifm-color-primary-lightest: #000000;
+    --ifm-color-primary: #1ed760;
+    --ifm-color-primary-dark: #1bc256;
+    --ifm-color-primary-darker: #19b752;
+    --ifm-color-primary-darkest: #159643;
+    --ifm-color-primary-light: #2ce26d;
+    --ifm-color-primary-lighter: #37e374;
+    --ifm-color-primary-lightest: #57e88b;
 }
 
 body,
@@ -26,12 +26,10 @@ a {
 .navbar__title {
     font-size: 24px;
     font-weight: 500;
-    color: #0066FF;
 }
 
 .navbar__item, .dropdown, .dropdown--hoverable, .dropdown__link {
     font-size: 16px;
-    color: #24335A;
 }
 
 .menu__link--sublist-caret::after {
@@ -51,8 +49,9 @@ a {
 
 .btn {
     display: flex;
-    background: #0066FF;
-    color: #ffffff;
+    background: #1ed760;
+    color: #181818;
+    font-weight: bold;
     padding: 6px 20px;
     border-radius: 8px;
     height: 40px;

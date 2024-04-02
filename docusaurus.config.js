@@ -76,11 +76,11 @@ const config = {
             src: 'img/logo.svg',
           },
           items: [
-            {to: '/blog', label: 'BLOG', position: 'left'},
+            {to: '/blog', label: 'Blog', position: 'left'},
             {
               type: 'docSidebar',
               sidebarId: 'policiesSidebar',
-              label: 'TERMS & POLICIES',
+              label: 'Terms & Policies',
               position: 'left'
             },
             {
@@ -100,7 +100,9 @@ const config = {
           darkTheme: darkCodeTheme,
         },
         colorMode: {
-          disableSwitch: true
+          defaultMode: 'dark',
+          disableSwitch: false,
+          respectPrefersColorScheme: false,
         },
         // announcementBar: {
         //   id: 'support_us',
