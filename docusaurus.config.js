@@ -30,7 +30,7 @@ const config = {
   // to replace "en" with "zh-Hans".
   i18n: {
     defaultLocale: 'en',
-    locales: ['en', 'zh-Hans'],
+    locales: ['en'],
   },
   
   presets: [
@@ -89,10 +89,6 @@ const config = {
               html: `<div class="btn">Try AbandonAI</div>`,
               position: 'right'
             },
-            {
-              type: "localeDropdown",
-              position: "right"
-            }
           ],
         },
         prism: {

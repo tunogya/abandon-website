@@ -1,4 +1,0 @@
-# Announcements
-
-AbandonAI Announcements!
-
