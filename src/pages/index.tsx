@@ -4,8 +4,8 @@ import Layout from '@theme/Layout';
 export default function Home() {
   return (
     <Layout
-      title={`Welcome to AbandonAI`}
-      description="AbandonAI - The hardcore tech company">
+      title={`AbandonAI - Decentralized AI Technology Inspired by Jung's Personality Theory`}
+      description="AbandonAI is a leading AI technology company inspired by Jung's personality theory. We provide decentralized AI products to enhance our personality and make ourselves more complete.">
       <main>
         <div className="p-4">
           <p>Welcome to AbandonAI!</p>
@@ -28,6 +28,27 @@ export default function Home() {
           <a href="mailto:tom@abandon.ai">tom@abandon.ai</a>
           <p className="blink">_</p>
         </div>
+        <script type="application/ld+json">
+          {`
+          {
+            "@context": "https://schema.org",
+            "@type": "Organization",
+            "name": "AbandonAI",
+            "url": "https://abandon.ai",
+            "logo": "https://abandon.ai/static/img/logo.svg",
+            "contactPoint": {
+              "@type": "ContactPoint",
+              "email": "tom@abandon.ai",
+              "contactType": "Customer Service"
+            },
+            "sameAs": [
+              "https://www.facebook.com/abandonai",
+              "https://www.twitter.com/abandonai",
+              "https://www.linkedin.com/company/abandonai"
+            ]
+          }
+          `}
+        </script>
       </main>
     </Layout>
   );
