@@ -86,12 +86,12 @@ const config = {
           ],
         },
         prism: {
-          theme: lightCodeTheme,
+          theme: darkCodeTheme,
           darkTheme: darkCodeTheme,
         },
         colorMode: {
           defaultMode: 'dark',
-          disableSwitch: false,
+          disableSwitch: true,
           respectPrefersColorScheme: false,
         },
       },
