@@ -22,6 +22,9 @@ a {
 
 h1, h2, h3, h4, h5, h6 {
   color: #00ff00; /* 绿色标题 */
+  font-family: 'Courier New', Courier, monospace; /* 等宽字体 */
+  font-weight: bold;
+  font-size: 32px;
 }
 
 /* 添加一些动画效果 */
