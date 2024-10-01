@@ -12,9 +12,6 @@ export default function Home(): JSX.Element {
             Abandon yourself to a life of pleasure.
           </div>
         </div>
-        <div className={"text-xl px-8 py-4 border-2 rounded-full"}>
-          637 users on AbandonAI
-        </div>
       </div>
       <div className={'absolute bottom-2 w-full text-center text-xs'}>
         <p>

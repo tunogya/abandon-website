@@ -1,36 +1,36 @@
 # Privacy policy
 
-We at Abandon, Inc. (together with our affiliates, “AbandonAI”, “we”, “our” or “us”) respect your privacy and are
+We at Abandon, Inc. (together with our affiliates, "AbandonAI", "we", "our" or "us") respect your privacy and are
 strongly committed to keeping secure any information we obtain from you or about you. This Privacy Policy describes our
 practices with respect to Personal Information we collect from or about you when you use our website, applications, and
-services (collectively, “Services”). This Privacy Policy does not apply to content that we process on behalf of
+services (collectively, "Services"). This Privacy Policy does not apply to content that we process on behalf of
 customers of our business offerings, such as our API. Our use of that data is governed by our customer agreements
 covering access to and use of those offerings.
 
-For information about how we collect and use training information to develop our language models that power ChatGPT and
-other Services, and your choices with respect to that information, please see this help center article.
+For information about how we collect and use training information to develop our language models that power our AI services and
+other Services, and your choices with respect to that information, please see our help center article.
 
 ## 1. Personal information we collect
 
-We collect personal information relating to you (“Personal Information”) as follows:
+We collect personal information relating to you ("Personal Information") as follows:
 
 **Personal Information You Provide**: We collect Personal Information if you create an account to use our Services or
 communicate with us as follows:
 
 * Account Information: When you create an account with us, we will collect information associated with your account,
   including your name, contact information, account credentials, payment card information, and transaction history, (
-  collectively, “Account Information”).
+  collectively, "Account Information").
 * User Content: When you use our Services, we collect Personal Information that is included in the input, file uploads,
-  or feedback that you provide to our Services (“Content”).
+  or feedback that you provide to our Services ("Content").
 * Communication Information: If you communicate with us, we collect your name, contact information, and the contents of
-  any messages you send (“Communication Information”).
+  any messages you send ("Communication Information").
 * Social Media Information: We have pages on social media sites like Instagram, Facebook, Medium, Twitter, YouTube and
   LinkedIn. When you interact with our social media pages, we will collect Personal Information that you elect to
-  provide to us, such as your contact details (collectively, “Social Information”). In addition, the companies that host
+  provide to us, such as your contact details (collectively, "Social Information"). In addition, the companies that host
   our social media pages may provide us with aggregate information and analytics about our social media activity.
 
 **Personal Information We Receive Automatically From Your Use of the Services**: When you visit, use, or interact with
-the Services, we receive the following information about your visit, use, or interactions (“Technical Information”):
+the Services, we receive the following information about your visit, use, or interactions ("Technical Information"):
 
 * Log Data: Information that your browser automatically sends when you use our Services. Log data includes your Internet
   Protocol address, browser type and settings, the date and time of your request, and how you interact with our website.
@@ -39,7 +39,7 @@ the Services, we receive the following information about your visit, use, or int
   and times of access, user agent and version, type of computer or mobile device, and your computer connection.
 * Device Information: Includes name of the device, operating system, device identifiers, and browser you are using.
   Information collected may depend on the type of device you use and its settings.
-* Cookies: We use cookies to operate and administer our Services, and improve your experience. A “cookie” is a piece of
+* Cookies: We use cookies to operate and administer our Services, and improve your experience. A "cookie" is a piece of
   information sent to your browser by a website you visit. You can set your browser to accept all cookies, to reject all
   cookies, or to notify you whenever a cookie is offered so that you can decide each time whether to accept it. However,
   refusing a cookie may in some cases preclude you from using, or negatively affect the display or function of, a
@@ -72,7 +72,7 @@ described in this Privacy Policy. We will maintain and use de-identified informa
 and we will not attempt to reidentify the information, unless required by law.
 
 As noted above, we may use Content you provide us to improve our Services, for example to train the models that power
-ChatGPT. See here for instructions on how you can opt out of our use of your Content to train our models.
+our AI services. See our help center for instructions on how you can opt out of our use of your Content to train our models.
 
 ## 3. Disclosure of personal information
 
@@ -85,7 +85,7 @@ required by the law:
   analytics services, among others. Pursuant to our instructions, these parties will access, process, or store Personal
   Information only in the course of performing their duties to us.
 * Business Transfers: If we are involved in strategic transactions, reorganization, bankruptcy, receivership, or
-  transition of service to another provider (collectively, a “Transaction”), your Personal Information and other
+  transition of service to another provider (collectively, a "Transaction"), your Personal Information and other
   information may be disclosed in the diligence process with counterparties and others assisting with the Transaction
   and transferred to a successor or affiliate as part of that Transaction along with other assets.
 * Legal Requirements: We may share your Personal Information, including information about your interaction with our
@@ -115,23 +115,23 @@ relation to their Personal Information. For example, you may have the right to:
 You can exercise some of these rights through your AbandonAI account. If you are unable to exercise your rights through
 your account, please send your request to dsar@abandon.ai.
 
-A note about accuracy: Services like ChatGPT generate responses by reading a user’s request and, in response, predicting
+A note about accuracy: Services like our AI models generate responses by reading a user's request and, in response, predicting
 the words most likely to appear next. In some cases, the words most likely to appear next may not be the most factually
 accurate. For this reason, you should not rely on the factual accuracy of output from our models. If you notice that
-ChatGPT output contains factually inaccurate information about you and you would like us to correct the inaccuracy, you
+our AI output contains factually inaccurate information about you and you would like us to correct the inaccuracy, you
 may submit a correction request to dsar@abandon.ai. Given the technical complexity of how our models work, we may not be
 able to correct the inaccuracy in every instance. In that case, you may request that we remove your Personal Information
-from ChatGPT’s output by filling out this form.
+from our AI output by filling out this form.
 
 For information on how to exercise your rights with respect to data we have collected from the internet to train our
-models, please see this help center article.
+models, please see our help center article.
 
 ## 5. Additional U.S. State Disclosures
 
 The following table provides additional information about the categories of Personal Information we collect and how we
-disclose that information. You can read more about the Personal Information we collect in “Personal information we
-collect” above, how we use Personal Information in “How we use personal information” above, and how we retain Personal
-Information in “Security and Retention” below.
+disclose that information. You can read more about the Personal Information we collect in "Personal information we
+collect" above, how we use Personal Information in "How we use personal information" above, and how we retain Personal
+Information in "Security and Retention" below.
 
 | Category of Personal Information                                                             | Disclosure of Personal Information                                                                                                    |
 |----------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------|
@@ -150,8 +150,8 @@ rights in relation to their Personal Information:
 * The right to correct your Personal Information; and
 * The right to be free from discrimination relating to the exercise of any of your privacy rights.
 
-We don’t “sell” Personal Information or “share” Personal Information for cross-contextual behavioral advertising (as
-those terms are defined under applicable local law). We also don’t process sensitive Personal Information for the
+We don't "sell" Personal Information or "share" Personal Information for cross-contextual behavioral advertising (as
+those terms are defined under applicable local law). We also don't process sensitive Personal Information for the
 purposes of inferring characteristics about a consumer.
 
 **Exercising Your Rights**. To the extent applicable under local law, you can exercise privacy rights described in this
@@ -181,7 +181,7 @@ consent from your parent or guardian to use our Services.
 ## 7. Links to other websites
 
 The Service may contain links to other websites not operated or controlled by AbandonAI, including social media services (
-“Third Party Sites”). The information that you share with Third Party Sites will be governed by the specific privacy
+"Third Party Sites"). The information that you share with Third Party Sites will be governed by the specific privacy
 policies and terms of service of the Third Party Sites and not by this Privacy Policy. By providing these links we do
 not imply that we endorse or have reviewed these sites. Please contact the Third Party Sites directly for information on
 their privacy practices and policies.
@@ -195,7 +195,7 @@ may not be secure. Therefore, you should take special care in deciding what info
 or email. In addition, we are not responsible for circumvention of any privacy settings or security measures contained
 on the Service, or third-party websites.
 
-We’ll retain your Personal Information for only as long as we need in order to provide our Service to you, or for other
+We'll retain your Personal Information for only as long as we need in order to provide our Service to you, or for other
 legitimate business purposes such as resolving disputes, safety and security reasons, or complying with our legal
 obligations. How long we retain Personal Information will depend on a number of factors, such as the amount, nature, and
 sensitivity of the information, the potential risk of harm from unauthorized use or disclosure, our purpose for
@@ -216,19 +216,12 @@ For EEA, UK or Swiss users:
   provide our Services. If you do not provide this information, we may not be able to provide our Services to you.
 * Our legitimate interests in protecting our Services from abuse, fraud, or security risks, or in developing, improving,
   or promoting our Services, including when we train our models. This may include the processing of Account Information,
-  Content, Social Information, and Technical Information. See here for instructions on how you can opt out of our use of
+  Content, Social Information, and Technical Information. See our help center for instructions on how you can opt out of our use of
   your information to train our models.
 * Your consent when we ask for your consent to process your Personal Information for a specific purpose that we
   communicate to you. You have the right to withdraw your consent at any time.
 * Compliance with our legal obligations when we use your Personal Information to comply with applicable law or when we
-  protect our or our affiliates’, users’, or third parties’ rights, safety, and property.
-
-**EEA and UK Representative**. We’ve appointed the following representatives in the EEA and UK for data protection
-matters. You can contact our representatives at privacy@abandon.ai. Alternatively:
-
-* For users in the EEA: AbandonAI Ireland Limited, at 1st Floor, The Liffey Trust Centre, 117-126 Sheriff Street Upper,
-  Dublin 1, D01 YC43, Ireland.
-* For users in the UK: AbandonAI UK Ltd, Suite 1, 3rd Floor, 11-12 St. James’s Square, London SW1Y 4LB, United Kingdom.
+  protect our or our affiliates', users', or third parties' rights, safety, and property.
 
 **Data Transfers**. Where required, we will use appropriate safeguards for transferring Personal Information outside of
 the EEA, Switzerland, and the UK. We will only transfer Personal Information pursuant to a legally valid transfer
@@ -249,4 +242,3 @@ another type of notice is required by applicable law.
 ## 11. How to contact us
 
 Please contact support if you have any questions or concerns not already addressed in this Privacy Policy.
-

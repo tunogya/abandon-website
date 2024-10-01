@@ -3,7 +3,7 @@
 Thank you for using AbandonAI!
 
 These Terms of Use apply when you use the services of Abandon, Inc. or our affiliates, including our application
-programming interface, software, tools, developer services, data, documentation, and websites (“Services”).
+programming interface, software, tools, developer services, data, documentation, and websites ("Services").
 The Terms include our Service Terms, Sharing & Publication Policy, Usage Policies, and other documentation, guidelines,
 or policies we may provide in writing.
 By using our Services, you agree to these Terms.
@@ -12,7 +12,7 @@ collect and use personal information.
 
 ## 1. Registration and Access
 
-You must be at least 13 years old to use the Services. If you are under 18 you must have your parent or legal guardian’s
+You must be at least 13 years old to use the Services. If you are under 18 you must have your parent or legal guardian's
 permission to use the Services. If you use the Services on behalf of another person or entity, you must have the
 authority to accept the Terms on their behalf. You must provide accurate and complete information to register for an
 account. You may not make your access credentials or account available to others outside your organization, and you are
@@ -31,7 +31,7 @@ We appreciate feedback, comments, ideas, proposals and suggestions for improveme
 If you provide any of these things, we may use it without restriction or compensation to you.
 
 (c) Restrictions.
-You may not (i) use the Services in a way that infringes, misappropriates or violates any person’s
+You may not (i) use the Services in a way that infringes, misappropriates or violates any person's
 rights; (ii) reverse assemble, reverse compile, decompile, translate or otherwise attempt to discover the source code or
 underlying components of models, algorithms, and systems of the Services (except to the extent such restrictions are
 contrary to applicable law); (iii) use output from the Services to develop models that compete with AbandonAI; (iv)
@@ -50,9 +50,9 @@ are subject to their own terms, and we are not responsible for third party produ
 ## 3. Content
 
 (a) Your Content.
-You may provide input to the Services (“Input”), and receive output generated and returned by the
-Services based on the Input (“Output”).
-Input and Output are collectively “Content.” As between the parties and to the extent permitted by applicable law, you
+You may provide input to the Services ("Input"), and receive output generated and returned by the
+Services based on the Input ("Output").
+Input and Output are collectively "Content." As between the parties and to the extent permitted by applicable law, you
 own all Input.
 Subject to your compliance with these Terms, AbandonAI hereby
 assigns to you all its right, title and interest in and to Output. This means you can use Content for any purpose,
@@ -64,13 +64,13 @@ Content, including for ensuring that it does not violate any applicable law or t
 Due to the nature of machine learning, Output may not be unique across users and the Services
 may generate the same or similar output for AbandonAI or a third party. For example, you may provide input to a model
 such
-as “What color is the sky?” and receive output such as “The sky is blue.” Other users may also ask similar questions and
+as "What color is the sky?" and receive output such as "The sky is blue." Other users may also ask similar questions and
 receive the same response. Responses that are requested by and generated for other users are not considered your
 Content.
 
 (c) Use of Content to Improve Services.
-We do not use Content that you provide to or receive from our API (“API Content”) to develop or improve our Services.
-We may use Content from Services other than our API (“Non-API Content”) to
+We do not use Content that you provide to or receive from our API ("API Content") to develop or improve our Services.
+We may use Content from Services other than our API ("Non-API Content") to
 help develop and improve our Services.
 You can read more here about how Non-API Content may be used to improve model performance.
 If you do not want your Non-API Content used to improve Services, you can opt out by filling out this form.
@@ -87,7 +87,7 @@ use case, including by using human review of the Output.
 ## 4. Fees and Payments
 
 (a) Fees and Billing.
-You will pay all fees charged to your account (“Fees”) according to the prices and terms on the
+You will pay all fees charged to your account ("Fees") according to the prices and terms on the
 applicable pricing page, or as otherwise agreed between us in writing. We have the right to correct pricing errors or
 mistakes even if we have already issued an invoice or received payment. You will provide complete and accurate billing
 information including a valid and authorized payment method. We will charge your payment method on an agreed-upon
@@ -99,7 +99,7 @@ Agreement.
 
 (b) Taxes.
 Unless otherwise stated, Fees do not include federal, state, local, and foreign taxes, duties, and other
-similar assessments (“Taxes”). You are responsible for all Taxes associated with your purchase, excluding Taxes based on
+similar assessments ("Taxes"). You are responsible for all Taxes associated with your purchase, excluding Taxes based on
 our net income, and we may invoice you for such Taxes. You agree to timely pay such Taxes and provide us with
 documentation showing the payment, or additional evidence that we may reasonably require. AbandonAI uses the name and
 address in your account registration as the place of supply for tax purposes, so you must keep this information accurate
@@ -155,7 +155,7 @@ If you use the Services to process personal data, you must provide legally adequ
 privacy notices and obtain necessary consents for the processing of such data, and you represent to us that you are
 processing such data in accordance with applicable law.
 If you will be using the AbandonAI API for the processing of
-“personal data” as defined in the GDPR or “Personal Information” as defined in CCPA, please fill out this form to
+"personal data" as defined in the GDPR or "Personal Information" as defined in CCPA, please fill out this form to
 request to execute our Data Processing Addendum.
 
 ## 6. Term and Termination
@@ -165,7 +165,7 @@ These Terms take effect when you first use the Services and remain in effect unt
 terminated.
 You may terminate these Terms at any time for any reason by discontinuing the use of the Services and
 Content.
-We may terminate these Terms for any reason by providing you at least 30 days’ advance notice. We may terminate
+We may terminate these Terms for any reason by providing you at least 30 days' advance notice. We may terminate
 these Terms immediately upon notice to you if you materially breach Sections 2 (Usage Requirements), 5 (Confidentiality,
 Security and Data Protection), 8 (Dispute Resolution) or 9 (General Terms), if there are changes in relationships with
 third party technology providers outside of our control, or to comply with law or government requests. We may suspend
@@ -181,12 +181,12 @@ termination or expiration should survive, including but not limited to Sections 
 
 (a) Indemnity.
 You will defend, indemnify, and hold harmless us, our affiliates, and our personnel, from and against any
-claims, losses, and expenses (including attorneys’ fees) arising from or relating to your use of the Services, including
+claims, losses, and expenses (including attorneys' fees) arising from or relating to your use of the Services, including
 your Content, products or services you develop or offer in connection with the Services, and your breach of these Terms
 or violation of applicable law.
 
 (b) Disclaimer.
-THE SERVICES ARE PROVIDED “AS IS.” EXCEPT TO THE EXTENT PROHIBITED BY LAW, WE AND OUR AFFILIATES AND
+THE SERVICES ARE PROVIDED "AS IS." EXCEPT TO THE EXTENT PROHIBITED BY LAW, WE AND OUR AFFILIATES AND
 LICENSORS MAKE NO WARRANTIES (EXPRESS, IMPLIED, STATUTORY OR OTHERWISE) WITH RESPECT TO THE SERVICES, AND DISCLAIM ALL
 WARRANTIES INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, SATISFACTORY
 QUALITY, NON-INFRINGEMENT, AND QUIET ENJOYMENT, AND ANY WARRANTIES ARISING OUT OF ANY COURSE OF DEALING OR TRADE USAGE.
@@ -226,7 +226,7 @@ resolution provider.
 The parties will pay equal shares of the arbitration fees. If the arbitrator finds that you cannot
 afford to pay the arbitration fees and cannot obtain a waiver, AbandonAI will pay them for you. AbandonAI will not seek
 its
-attorneys’ fees and costs in arbitration unless the arbitrator determines that your claim is frivolous.
+attorneys' fees and costs in arbitration unless the arbitrator determines that your claim is frivolous.
 
 (d) Arbitration Procedures.
 The arbitration will be conducted by telephone, based on written submissions, video
@@ -252,11 +252,11 @@ settlement of claims.
 
 (g) Mass Filings.
 If, at any time, 30 or more similar demands for arbitration are asserted against AbandonAI or related
-parties by the same or coordinated counsel or entities (“Mass Filing”), ADR Services will randomly assign sequential
-numbers to each of the Mass Filings. Claims numbered 1-10 will be the “Initial Test Cases” and will proceed to
+parties by the same or coordinated counsel or entities ("Mass Filing"), ADR Services will randomly assign sequential
+numbers to each of the Mass Filings. Claims numbered 1-10 will be the "Initial Test Cases" and will proceed to
 arbitration first. The arbitrators will render a final award for the Initial Test Cases within 120 days of the initial
 pre-hearing conference, unless the claims are resolved in advance or the parties agree to extend the deadline. The
-parties will then have 90 days (the “Mediation Period”) to resolve the remaining cases in mediation based on the awards
+parties will then have 90 days (the "Mediation Period") to resolve the remaining cases in mediation based on the awards
 from the Initial Test Cases. If the parties are unable to resolve the outstanding claims during this time, the parties
 may choose to opt out of the arbitration process and proceed in court by providing written notice to the other party
 within 60 days after the Mediation Period. Otherwise, the remaining cases will be arbitrated in their assigned order.
@@ -274,12 +274,12 @@ on the substance of such claim from the arbitrator.
 
 (a) Relationship of the Parties.
 These Terms do not create a partnership, joint venture or agency relationship between
-you and AbandonAI or any of AbandonAI’s affiliates. AbandonAI and you are independent contractors and neither party will
+you and AbandonAI or any of AbandonAI's affiliates. AbandonAI and you are independent contractors and neither party will
 have the
-power to bind the other or to incur obligations on the other’s behalf without the other party’s prior written consent.
+power to bind the other or to incur obligations on the other's behalf without the other party's prior written consent.
 
 (b) Use of Brands.
-You may not use AbandonAI’s or any of its affiliates’ names, logos, or trademarks, without our prior
+You may not use AbandonAI's or any of its affiliates' names, logos, or trademarks, without our prior
 written consent.
 
 (c) U.S. Federal Agency Entities.
@@ -306,7 +306,7 @@ Written claims concerning copyright infringement must include the following info
 * A statement by you that you have a good-faith belief that the disputed use is not authorized by the copyright owner,
   its agent, or the law; and
 * A statement by you, made under penalty of perjury, that the above information in your notice is accurate and that you
-  are the copyright owner or authorized to act on the copyright owner’s behalf.
+  are the copyright owner or authorized to act on the copyright owner's behalf.
 
 (e) Assignment and Delegation.
 You may not assign or delegate any rights or obligations under these Terms, including in
@@ -343,10 +343,10 @@ maximum extent permissible and it will not affect the enforceability of any othe
 
 (i) Export Controls.
 The Services may not be used in or for the benefit of, exported, or re-exported (a) into any U.S.
-embargoed countries (collectively, the “Embargoed Countries”) or (b) to anyone on the U.S. Treasury Department’s list of
+embargoed countries (collectively, the "Embargoed Countries") or (b) to anyone on the U.S. Treasury Department's list of
 Specially Designated Nationals, any other restricted party lists (existing now or in the future) identified by the
 Office of Foreign Asset Control, or the U.S. Department of Commerce Denied Persons List or Entity List, or any other
-restricted party lists (collectively, “Restricted Party Lists”).
+restricted party lists (collectively, "Restricted Party Lists").
 You represent and warrant that you are not located in
 any Embargoed Countries and not on any such restricted party lists.
 You must comply with all applicable laws related to
@@ -367,6 +367,6 @@ and AbandonAI on that subject.
 
 (l) Jurisdiction, Venue and Choice of Law.
 These Terms will be governed by the laws of the State of Delaware,
-excluding Delaware’s conflicts of law rules or principles. Except as provided in the “Dispute Resolution” section, all
+excluding Delaware's conflicts of law rules or principles. Except as provided in the "Dispute Resolution" section, all
 claims arising out of or relating to these Terms will be brought exclusively in the federal or state courts of Dover,
 Delaware, USA.
