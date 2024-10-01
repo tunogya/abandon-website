@@ -34,3 +34,8 @@ h1, h2, h3, h4, h5, h6 {
 .blink {
   animation: blink 1s step-start infinite;
 }
+
+/* Make navbar items bold */
+.navbar__item {
+  font-weight: bold;
+}
