@@ -1,14 +1,33 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
 /* src/css/custom.css */
 
-/* Set the text color to white */
+/* 黑客风格配色方案 */
 body {
-  color: rgb(255, 255, 255);
+  background-color: #000; /* 黑色背景 */
+  color: #00ff00; /* 绿色文字 */
+  font-family: 'Courier New', Courier, monospace; /* 等宽字体 */
+  font-weight: bold;
 }
 
-/* Ensure links are also visible */
 a {
-  color: #1e90ff; /* Adjust the link color if needed */
+  color: #ff0000; /* 红色链接 */
+  font-weight: bold;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: #00ff00; /* 绿色标题 */
+}
+
+/* 添加一些动画效果 */
+@keyframes blink {
+  50% {
+    opacity: 0;
+  }
+}
+
+.blink {
+  animation: blink 1s step-start infinite;
 }

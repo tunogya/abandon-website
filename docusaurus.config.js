@@ -1,9 +1,7 @@
 // @ts-check
 // Note: type annotations allow type checking and IDEs autocompletion
 
-const lightCodeTheme = require('prism-react-renderer/themes/github');
 const darkCodeTheme = require('prism-react-renderer/themes/dracula');
-const React = require("react");
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
@@ -71,10 +69,6 @@ const config = {
         image: 'img/docusaurus-social-card.jpg',
         navbar: {
           title: 'AbandonAI',
-          logo: {
-            alt: 'AbandonAI Logo',
-            src: 'img/logo.svg',
-          },
           items: [
             {to: '/blog', label: 'Blog', position: 'left'},
             {
