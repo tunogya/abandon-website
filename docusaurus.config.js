@@ -1,8 +1,6 @@
 // @ts-check
 // Note: type annotations allow type checking and IDEs autocompletion
 
-const darkCodeTheme = require('prism-react-renderer/themes/dracula');
-
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'AbandonAI',
@@ -78,10 +76,6 @@ const config = {
               position: 'left'
             },
           ],
-        },
-        prism: {
-          theme: darkCodeTheme,
-          darkTheme: darkCodeTheme,
         },
         colorMode: {
           defaultMode: 'dark',
