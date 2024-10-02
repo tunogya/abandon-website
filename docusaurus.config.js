@@ -67,6 +67,10 @@ const config = {
         image: 'img/docusaurus-social-card.jpg',
         navbar: {
           title: 'AbandonAI',
+          logo: {
+            alt: 'AbandonAI',
+            src: 'img/logo.svg',
+          },
           items: [
             {to: '/blog', label: 'Blog', position: 'left'},
             {
@@ -75,6 +79,8 @@ const config = {
               label: 'Terms & Policies',
               position: 'left'
             },
+            {to: '/lobechat', label: 'LobeChat', position: 'right'},
+            {to: '/1persona', label: '1Persona', position: 'right'},
           ],
         },
         colorMode: {
