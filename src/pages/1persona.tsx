@@ -10,6 +10,7 @@ export default function Home() {
                 <div className="p-4">
                     <p>
                         iOS App: <a href="https://apps.apple.com/cn/app/1persona/id6484276400">https://apps.apple.com/cn/app/1persona/id6484276400</a><br />
+                        Android App: <a href="https://expo.dev/artifacts/eas/qoi46cczk3FiQSGtopEBCX.apk">https://expo.dev/artifacts/eas/qoi46cczk3FiQSGtopEBCX.apk</a><br />
                         Web App: <a href="https://apps.abandon.ai/app/1persona">https://apps.abandon.ai/app/1persona</a>
                     </p>
                     <br/>
