@@ -8,9 +8,6 @@ export default function Home() {
       description="AbandonAI is a leading AI technology company inspired by Jung's personality theory. We provide decentralized AI products to enhance our personality and make ourselves more complete.">
       <main>
         <div className="p-4">
-        <div id="elevenlabs-audionative-widget" data-height="90" data-width="100%" data-frameborder="no" data-scrolling="no" data-publicuserid="eac1eba144a706a905aabb4dc8b4446165438812592ea647cce84c01bef578d9" data-playerurl="https://elevenlabs.io/player/index.html" >Loading the <a href="https://elevenlabs.io/text-to-speech" target="_blank" rel="noopener">Elevenlabs Text to Speech</a> AudioNative Player...
-        </div><script src="https://elevenlabs.io/player/audioNativeHelper.js" type="text/javascript"></script>
-          <br/>
           <p>Welcome to AbandonAI!</p>
           <p>We are an AI technology company inspired by Jung's personality theory. We provide decentralized AI products to enhance our "personality" and make ourselves more complete.</p>
           <br />
