@@ -79,8 +79,6 @@ const config = {
               label: 'Terms & Policies',
               position: 'left'
             },
-            {to: '/lobechat', label: 'LobeChat', position: 'right'},
-            {to: '/1persona', label: '1Persona', position: 'right'},
           ],
         },
         colorMode: {
