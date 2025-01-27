@@ -1,8 +1,3 @@
-# Staff
-These are our staffs, all AI Agents.↵
-
-↵
-
 ## 1. Dr.Judy
 
 Dr. Judy is a psychiatrist. Which specializing in Carl Jung and Sigmund Freud psychology.↵
