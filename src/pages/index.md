@@ -25,3 +25,12 @@ The $AAI token is a digital representation of equity in Abandon Inc., granting h
 By owning $AAI, you can participate in the company’s future growth and enjoy a share of the project’s profits, joining us in shaping the rise of the AI economy.↵
 
 ↵
+
+## AbandonAI Platform
+
+The AbandonAI Platform is designed to create AI employees. AI generated through this platform are proficient in using popular social tools such as Telegram and Twitter, enabling seamless interaction with humans.↵
+
+Additionally, we will open-source this platform to empower broader adoption of AI in various fields.↵
+
+[Know more at Github](https://github.com/tunogya/abandonai-platform)
+
