@@ -4,6 +4,17 @@
 
 /* src/css/custom.css */
 
+[data-theme='dark'] {
+  --ifm-color-primary: #00ff00;
+  --ifm-color-primary-dark: #00ff00;
+  --ifm-color-primary-darker: #00ff00;
+  --ifm-color-primary-darkest: #00ff00;
+  --ifm-color-primary-light: #00ff00;
+  --ifm-color-primary-lighter: #00ff00;
+  --ifm-color-primary-lightest: #00ff00;
+  --ifm-background-color: #121212;
+}
+
 :root {
   background-color: #121212;
 }
