@@ -12,11 +12,11 @@
   --ifm-color-primary-light: #00ff00;
   --ifm-color-primary-lighter: #00ff00;
   --ifm-color-primary-lightest: #00ff00;
-  --ifm-background-color: #000000;
+  --ifm-background-color: #121212;
 }
 
 :root {
-  background-color: #000000;
+  background-color: #121212;
 }
 
 /* 黑客风格配色方案 */
@@ -55,16 +55,16 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .navbar {
-  background-color: #000000;
+  background-color: #121212;
 }
 
 .menu {
-  background-color: #000000;
+  background-color: #121212;
 }
 
 .menu__link {
   &.menu__link--active {
-    background-color: #000000;
+    background-color: #121212;
   }
 }
 
